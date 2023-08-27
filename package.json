@@ -1,0 +1,7 @@
+{
+  "name": "k6",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/k6": "^0.46.2"
+  }
+}
